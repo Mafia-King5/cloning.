@@ -170,13 +170,13 @@ def menu():
 
     print 50* '-'
 
-    print 'Codder.  : Excellent man All Hacking tools'
+    print 'AUTHOR  : Excellent man All Hacking tools'
 
-    print 'AUTHOR   : All Hacking Tools'
+    print 'PAGE    : All Hacking Tools'
 
-    print 'FACOfficial : All Hacking Tools'
+    print 'MAKE BY : All Hacking Tools'
 
-    print 'GITHUB   : https://github.com/Mafia-King5'
+    print 'GITHUB  : https://github.com/Mafia-King5'
 
     print ''
 
